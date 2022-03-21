@@ -123,3 +123,4 @@ Lo que permite es que si una variable no esta definida use el valor de la que si
 ### Precedencia de operadores
 Esto depende de la `Asociatividad` que es la preferencia hacia un sentido a trabajar
 [Asociatividad](https://www.php.net/manual/es/language.operators.precedence.php)
+Basicamente es que se hara primero, habra que tener cudiado al realizar este tipo de cosas
